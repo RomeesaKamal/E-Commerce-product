@@ -61,7 +61,7 @@ export default function Header({ numberOfItems, pricePerItem, setAmount }) {
 						</li>
 					</ul>
 					<nav className={isOpen && 'open'}>
-						<ul className=''>
+						<ul>
 							<li>Collections</li>
 							<li>Men</li>
 							<li>Women</li>
